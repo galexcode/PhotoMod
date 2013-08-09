@@ -1,0 +1,11 @@
+My project is called PhotoMod and what I have done is modifying the Instaspam-files to make my own Facebook app where the user can do the same thing but in a more appealing way.
+
+What you can do in the application is upload a photo from your computer than you can edit by rotating, add an overlay from the provided ones or/and add a tint to you picture.
+When you have finished editing your photo, then you will be able to post it in your Photos section on Facebook. 
+
+The app requires a Facebook account and should be run only on Facebook, even thought you can run it through the webserver too, but for best performance, it should be run through Facebook.
+
+What I have modefied mostly is the index.html and the upload.php where I have added a random and a time functions so the file name is unique, that makes the application usable when more than one person is using it to upload to Facebook.
+
+The application runs on a website and got a unique webadress through Facebook.
+The webadress to it is: https://apps.facebook.com/photomod/
