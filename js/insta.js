@@ -12,8 +12,8 @@ window.fbAsyncInit = function() {
     FB.init({
     // you must change the appId to the one you are given 
     // in your facebook account or it won't work! 
-	appId      : '639535246059255',                        // App ID from the app dashboard
-	channelUrl : '//apps.ziadigames.com/channel.php', // Channel file for x-domain comms
+	appId      : '00000000000000',                        // App ID from the app dashboard
+	channelUrl : '//my-domain.com/app/channel.php', // Channel file for x-domain comms
 	status     : true,                                 // Check Facebook Login status
 	xfbml      : true                                  // Look for social plugins on the page
     });
